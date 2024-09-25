@@ -25,8 +25,6 @@ https://dvagov.sharepoint.com/sites/OITEPMOIAM/playbooks/Pages/piv%20compliance/
 
 
 Access methods:
-[https://github.com/cloudvista/iam
-](https://eauth.va.gov/accessva/?cspSelectFor=https%3A%2F%2Fssp.vetride.va.gov
-
+https://eauth.va.gov/accessva/?cspSelectFor=https%3A%2F%2Fssp.vetride.va.gov%2Fsaml2%2Fservice-provider-metadata%2Fssoe&ForceAuthn=false
 
 
