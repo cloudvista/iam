@@ -7,6 +7,10 @@ https://dvagov.sharepoint.com/sites/OITEPMOIAM
 IAM Documents:  
 https://dvagov.sharepoint.com/sites/OITEPMOIAM/IAM%20Documents/
 
+IAM Architecture:  
+https://dvagov.sharepoint.com/sites/OITEPMOIAM/IAM%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FOITEPMOIAM%2FIAM%20Documents%2FArchitecture%20Docs%2FIAM%20Architecture
+
+
 IAM Playbooks:  
 https://dvagov.sharepoint.com/sites/OITEPMOIAM/playbooks
 
