@@ -25,6 +25,7 @@ https://dvagov.sharepoint.com/sites/OITEPMOIAM/playbooks/Pages/piv%20compliance/
 
 
 Access methods:  
+VA PIV | DOD CAC | Login.gov | ID.me  (DS Login and MyHealtheVet will be retired in 2025)  
 https://eauth.va.gov/accessva/?cspSelectFor=https%3A%2F%2Fssp.vetride.va.gov%2Fsaml2%2Fservice-provider-metadata%2Fssoe&ForceAuthn=false
 
 
