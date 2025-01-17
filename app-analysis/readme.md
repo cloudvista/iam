@@ -1,7 +1,8 @@
 # VA Application Analysis
-https://www.oit.va.gov/Services/TRM/SearchPage.aspx#results
 
-Search VA's official software catalog of approved technologies (VA TRM) to assess the volume and variety of technologies used across the VA, as well as VistA-specific technologies.  Keywords searched were "VistA" and "all" (dot).
+Analysis of VA's catalog of approved technologies (VA TRM) to assess the volume and variety of technologies used across the VA, as well as VistA-specific technologies.  Keywords searched were "VistA" and "all" (dot).
+
+https://www.oit.va.gov/Services/TRM/SearchPage.aspx#results
 
 __Summary__
 * All Technologies: 8586 vendors; 4151 unique
