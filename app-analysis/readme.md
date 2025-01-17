@@ -8,33 +8,103 @@ Search for  'Vista', 'Microsoft', and '.' (dot=all)  to assess scope of software
 Total Vendors: 185
 Total Unique Vendors: 23
 
-| Vendor Name                                | Number of Products |
-|--------------------------------------------|---------------------|
-| Document Storage Systems, Inc (DSS)       | 61                  |
-| VA OIT Product Development                 | 2                   |
-| Global Med                                 | 2                   |
-| InterSystems                               | 2                   |
-| iMDSoft                                    | 1                   |
-| Intrinisic Systems, Inc                    | 1                   |
-| Taylor Healthcare                          | 2                   |
-| Vecna Technologies, Inc                    | 1                   |
-| ProSphere Tek, Inc.                       | 1                   |
-| MITRE                                      | 1                   |
-| Werfen                                     | 1                   |
-| OSEHRA                                     | 1                   |
-| SupraVISTA Medical DSS, LLC                | 1                   |
-| Microsoft                                   | 5                   |
-| Brillians                                   | 1                   |
-| Schneider Electric                          | 1                   |
-| Advarra                                    | 2                   |
-| Ready Computing                             | 1                   |
-| GetWellNetwork                             | 1                   |
-| Bosch Healthcare                            | 1                   |
-| Draeger Medical Inc.                       | 1                   |
-| Nuance                                     | 2                   |
-| Parable Health, Inc.                       | 1                   |
-| AudioCARE Systems                          | 12                  |
-| Avicenna Medical Systems                    | 3                   |
+
+| Vendor                                                                         | Count - Vendor |
+| ------------------------------------------------------------------------------ | -------------- |
+| **Total Result**                                                               | **184**        |
+| Document Storage Systems, Inc (DSS)                                            | 43             |
+| AudioCARE Systems                                                              | 21             |
+| Microsoft                                                                      | 8              |
+| Advarra                                                                        | 3              |
+| Avicenna Medical Systems                                                       | 3              |
+| BitScopic                                                                      | 3              |
+| Nuance                                                                         | 3              |
+| 3M                                                                             | 2              |
+| Becton, Dickinson and Company                                                  | 2              |
+| DSS                                                                            | 2              |
+| GE Healthcare                                                                  | 2              |
+| Global Med                                                                     | 2              |
+| Health Services Research and Development Service (HSR&D)                       | 2              |
+| InterSystems                                                                   | 2              |
+| InVita Healthcare Technologies                                                 | 2              |
+| Medicor Imaging                                                                | 2              |
+| MSS Software                                                                   | 2              |
+| N/A                                                                            | 2              |
+| Shipcom Wireless, Inc                                                          | 2              |
+| Taylor Healthcare                                                              | 2              |
+| VA OIT Product Development                                                     | 2              |
+| 3D4Medical                                                                     | 1              |
+| AccuMed                                                                        | 1              |
+| Adobe                                                                          | 1              |
+| Agency for Healthcare Research and Quality                                     | 1              |
+| Baxter                                                                         | 1              |
+| Bio-Optronics                                                                  | 1              |
+| Bosch Healthcare                                                               | 1              |
+| Brillians                                                                      | 1              |
+| Capital Solution Design                                                        | 1              |
+| Carestream Medical and Dental                                                  | 1              |
+| CareSystems, Inc                                                               | 1              |
+| Carl Zeiss Meditec                                                             | 1              |
+| Clinical Outcomes Reporting Informatics                                        | 1              |
+| CliniComp International                                                        | 1              |
+| Consensus Medical Systems, Inc                                                 | 1              |
+| Corel                                                                          | 1              |
+| Data Innovations, LLC                                                          | 1              |
+| DeBugBar                                                                       | 1              |
+| Draeger Medical Inc.                                                           | 1              |
+| DSHI Systems                                                                   | 1              |
+| Eagle6                                                                         | 1              |
+| Epredia                                                                        | 1              |
+| EVT2SYS Open Source Project                                                    | 1              |
+| Fluke Networks                                                                 | 1              |
+| GetWellNetwork Inc                                                             | 1              |
+| Grason-Stadler                                                                 | 1              |
+| Hammer Technologies                                                            | 1              |
+| Harris Computer                                                                | 1              |
+| Huron Consulting Group, Inc.                                                   | 1              |
+| IBA Dosimetry                                                                  | 1              |
+| iMDSoft                                                                        | 1              |
+| Intelligent Hearing Systems                                                    | 1              |
+| Interacoustics                                                                 | 1              |
+| Intrinisic Systems, Inc                                                        | 1              |
+| Karamasoft LLC                                                                 | 1              |
+| Krames                                                                         | 1              |
+| Lutech Industries, Inc.                                                        | 1              |
+| M/Gateway Developments Ltd                                                     | 1              |
+| McKesson                                                                       | 1              |
+| Medicalis Corporation                                                          | 1              |
+| Medicom                                                                        | 1              |
+| MITRE                                                                          | 1              |
+| MModal IP LLC                                                                  | 1              |
+| Motorola Solutions, Inc.                                                       | 1              |
+| Netsmart                                                                       | 1              |
+| Optimal Solutions                                                              | 1              |
+| OSEHRA                                                                         | 1              |
+| Parable Health, Inc.                                                           | 1              |
+| Pearson                                                                        | 1              |
+| Philips                                                                        | 1              |
+| Picis Clinical Solutions                                                       | 1              |
+| PKWARE                                                                         | 1              |
+| Precision software & consulting                                                | 1              |
+| ProSphere Tek, Inc.                                                            | 1              |
+| Quatrex                                                                        | 1              |
+| Ready Computing                                                                | 1              |
+| Roche Diagnostics                                                              | 1              |
+| Sase Sham, Inc.                                                                | 1              |
+| Schneider Electric                                                             | 1              |
+| Strategic Reporting Systems, Inc.                                              | 1              |
+| SupraVISTA Medical DSS, LLC                                                    | 1              |
+| Trividia Health                                                                | 1              |
+| University Health Network                                                      | 1              |
+| University of New Mexico Center on Alcoholism, Substance Abuse, and Addictions | 1              |
+| VA Developed Class 2 or Class 3 Software                                       | 1              |
+| Vecna Technologies, Inc                                                        | 1              |
+| Ventana Medical Systems                                                        | 1              |
+| Vista Medical LTD.                                                             | 1              |
+| ViTel Net                                                                      | 1              |
+| Voicebrook                                                                     | 1              |
+| Welch Allyn                                                                    | 1              |
+| Werfen                                                                         | 1              |
 
 
 
