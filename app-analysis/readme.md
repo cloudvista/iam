@@ -115,7 +115,7 @@ Keyword search: "VistA"
 ### All VA Technologies
 Total Vendors: 8586  
 Total Unique Vendors: 4151  
-Keyword search:  "." (dot)
+Keyword search:  "." (all)
 
 | Vendor                                                                                      | Count - Vendor |
 | ------------------------------------------------------------------------------------------- | -------------- |
