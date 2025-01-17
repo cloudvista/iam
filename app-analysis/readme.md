@@ -1,7 +1,7 @@
 # VA TRM  Application Analysis
 https://www.oit.va.gov/Services/TRM/SearchPage.aspx#results
 
-Search VA TRM for 'Vista', 'Microsoft', and '.' (all) technologies to assess the volume and variety of technologies used across the VA, and VistA and Microsoft technologies specifically.
+Search VA TRM for technologies to assess the volume and variety of technologies used across the VA, and VistA and Microsoft technologies specifically.  Keywords searched were "." (all), "VistA", and "Microsoft".
 
 
 ### VistA technologies
