@@ -5,6 +5,8 @@ Search for  'Vista', 'Microsoft', and '.' (dot=all)  to assess scope of software
 
 
 ### VistA technologies
+Total Vendors: 185
+Total Unique Vendors: 23
 
 | Vendor Name                                | Number of Products |
 |--------------------------------------------|---------------------|
