@@ -1,6 +1,7 @@
 # VA Application Analysis
 
-Analysis of the volume and variety of all technologies endorsed and implemented across the VA, as well as VistA-specific technologies.  VA's catalog of vetted technologies is the [VA TRM](https://www.oit.va.gov/Services/TRM/SearchPage.aspx)
+Analysis of the volume and variety of all technologies vetted, approved, and implemented across the VA.  
+VA's catalog of approved technologies is the VA Technical Reference Model [(TRM)](https://www.oit.va.gov/Services/TRM/SearchPage.aspx)
 
 __Summary__
 * All Technologies: 8586 vendors; 4151 unique
