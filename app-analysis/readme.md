@@ -3,12 +3,12 @@
 Analysis of the volume and variety of technologies approved and operational in the VA.  
 VA's catalog of approved technologies is the VA Technical Reference Model [(TRM)](https://www.oit.va.gov/Services/TRM/SearchPage.aspx)
 
-__Summary__
+### Summary
 * All VA Technologies: 8586 vendors; 4151 unique
 * VA VistA Techologies: 185 vendors; 93 unique
 
 
-##### VistA technologies
+### VistA technologies
 Total Vendors: 185  
 Total Unique Vendors: 93
 Keyword search: "VistA"
