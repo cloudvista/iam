@@ -1,10 +1,10 @@
 # VA TRM analysis
 https://www.oit.va.gov/Services/TRM/SearchPage.aspx#results
 
-Search for  'Vista', 'Microsoft', and '.' (dot=all) in the VA TRM to determine usage / approval of software technologies in VA.
+Search for  'Vista', 'Microsoft', and '.' (dot=all)  to assess scope of software use in VA.
 
 
-VISTA products in TRM
+### VistA technologies
 
 | Vendor Name                                | Number of Products |
 |--------------------------------------------|---------------------|
