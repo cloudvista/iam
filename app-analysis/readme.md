@@ -1,7 +1,6 @@
 # VA Application Analysis
 
-Analysis of VA's catalog of approved technologies (VA TRM) to assess the volume and variety of technologies used across the VA, as well as VistA-specific technologies.  Keywords searched were "VistA" and "all" (dot).
-
+Analysis of the volume and variety of all technologies implemented across the VA, as well as VistA-specific technologies.  VA's catalog of reviewed and endorsed technologies is called the VA Technical Reference Model (TRM):
 https://www.oit.va.gov/Services/TRM/SearchPage.aspx#results
 
 __Summary__
@@ -12,6 +11,7 @@ __Summary__
 ### VistA technologies
 Total Vendors: 185  
 Total Unique Vendors: 93
+Keyword search: "VistA"
 
 | Vendor                                                                         | Count - Vendor |
 | ------------------------------------------------------------------------------ | -------------- |
@@ -115,6 +115,7 @@ Total Unique Vendors: 93
 ### All VA Technologies
 Total Vendors: 8586  
 Total Unique Vendors: 4151  
+Keyword search:  "." (dot)
 
 | Vendor                                                                                      | Count - Vendor |
 | ------------------------------------------------------------------------------------------- | -------------- |
