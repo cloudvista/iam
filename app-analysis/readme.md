@@ -1,7 +1,6 @@
 # VA Application Analysis
 
-Analysis of the volume and variety of all technologies implemented across the VA, as well as VistA-specific technologies.  VA's Technical Reference Model (TRM) is the catalog of reviewed and endorsed technologies used in VA.  
-https://www.oit.va.gov/Services/TRM/SearchPage.aspx#results
+Analysis of the volume and variety of all technologies implemented across the VA, as well as VistA-specific technologies.  VA's Technical Reference Model (TRM) is the catalog of reviewed and endorsed technologies used in VA. https://www.oit.va.gov/Services/TRM/SearchPage.aspx
 
 __Summary__
 * All Technologies: 8586 vendors; 4151 unique
