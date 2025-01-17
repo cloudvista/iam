@@ -1,6 +1,6 @@
 # VA Application Analysis
 
-Analysis of the volume and variety of technologies approved and operational in the VA.  
+Analysis of the volume and variety of technologies and their associated vendor in the VA.  
 VA's catalog of approved technologies is the VA Technical Reference Model [(TRM)](https://www.oit.va.gov/Services/TRM/SearchPage.aspx)
 
 ### Summary
