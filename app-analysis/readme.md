@@ -8,7 +8,7 @@ __Summary__
 * VA VistA Techologies: 185 vendors; 93 unique
 
 
-### VistA technologies
+##### VistA technologies
 Total Vendors: 185  
 Total Unique Vendors: 93
 Keyword search: "VistA"
@@ -112,7 +112,7 @@ Keyword search: "VistA"
 
 
 
-### All VA Technologies
+##### All VA Technologies
 Total Vendors: 8586  
 Total Unique Vendors: 4151  
 Keyword search:  "." (all)
